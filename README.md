@@ -21,4 +21,4 @@
     - Outlining my work early on makes creating it a lot smoother
     - Time flies quickly while coding and it's important to keep track of time
     
- * Live link: http://trash.garbage.surge.sh
+ * Live link: http://trash-garbage.surge.sh
