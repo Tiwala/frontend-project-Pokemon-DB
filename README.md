@@ -20,3 +20,5 @@
     - It isn't feasible to completely remember all operators and methods we use; we just have to know they exist and understand how they work, and things will be fine
     - Outlining my work early on makes creating it a lot smoother
     - Time flies quickly while coding and it's important to keep track of time
+    
+ * Live link: http://trash.garbage.surge.sh
